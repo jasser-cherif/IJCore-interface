@@ -1,0 +1,25 @@
+body{
+    background: url(../assets/cmd\(1\).jpg.jpg);
+    background-size: cover;
+    
+}
+.ui{
+    color: white;
+}
+.vde{
+    text-align: center;
+    margin-right:50px;
+    margin-top: 70px;
+    margin-left: 950px;
+    border-radius: 20px;
+    max-height: 30px;
+}
+.yu{
+    color: azure;
+}
+a{
+    color: white;
+}
+a:hover {
+    color: blue;
+  }
